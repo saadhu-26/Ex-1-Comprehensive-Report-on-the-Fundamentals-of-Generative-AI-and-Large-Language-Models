@@ -195,7 +195,7 @@ Generative AI and Large Language Models represent major advancements in Artifici
 * Machine Learning textbooks
 
 
-**Result:**
+## Result:
 
 The comprehensive report on the Fundamentals of Generative AI and Large Language Models has been prepared in a structured and neatly aligned format as per the given algorithm.
 
