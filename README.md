@@ -2,14 +2,14 @@
 
 
 ## Title Page
-
-**Subject:** Artificial Intelligence
-**Experiment:** Ex-1
-**Topic:** Fundamentals of Generative AI and Large Language Models
-**Prepared By:**Saadhana A
-**Roll No:**212225240126 
-**Date:**29-04-2026
-
+```
+Subject: Artificial Intelligence
+Experiment: Ex-1
+Topic: Fundamentals of Generative AI and Large Language Models
+Prepared By: Saadhana A
+Roll No: 212225240126 
+Date: 29-04-2026
+```
 
 ## Abstract
 
